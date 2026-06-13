@@ -1,6 +1,7 @@
 # AcadAI — AI-Powered Academic Support System
-[Watch Student Demo](https://youtu.be/uYeT0U9TzDI)
-[Watch Faculty Demo](https://youtu.be/9EMxL720UQk)
+
+🎥 [Watch Student Demo](https://youtu.be/uYeT0U9TzDI)  
+🎥 [Watch Faculty Demo](https://youtu.be/9EMxL720UQk)
 AcadAI is a full-stack web application that uses machine learning to help university students monitor their academic performance, predict risks, and get personalised guidance. Faculty can manage courses, assess students, and generate AI-powered assessments.
 
 ---

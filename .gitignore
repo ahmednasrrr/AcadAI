@@ -1,0 +1,30 @@
+# Environment variables — NEVER commit these
+backend/.env
+
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+ml/__pycache__/
+
+# Uploads (temporary files)
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Build output
+frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db
+# ML model files (too large for GitHub)
+ml/*.pkl
+
+# Logs
+*.log
+npm-debug.log*
